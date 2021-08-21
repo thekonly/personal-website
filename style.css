@@ -1,3 +1,17 @@
 body {
-    background:  blue;
+    background:  rgb(92, 92, 94);
 }
+
+img {
+    display: auto;
+    margin-left: 115px;
+    margin-right: 115px;
+    
+    
+  
+  }
+  
+  nav {
+    padding-right: auto;
+    padding-left: auto;
+    text-align: center;
