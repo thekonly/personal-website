@@ -7,7 +7,7 @@ body {
 
 p {
     font-family: Verdana, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     opacity: 0.5;
     text-align: center;
     color:black;
@@ -17,7 +17,7 @@ p {
     
 }
 
-img {
+#aboutme {
     display: auto;
     margin-left: 115px;
     margin-right: 115px;
@@ -25,3 +25,9 @@ img {
     float:left;
     
   }
+
+button {
+    display:inline-block;
+    margin-top: 30px;
+      
+}
